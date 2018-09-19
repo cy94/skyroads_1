@@ -1,2 +1,2 @@
 # skyroads_1
-Smart traffic management infrastructure using advanced video analytics &amp; AI
+Smart traffic infrastructure management using video analytics &amp; AI
